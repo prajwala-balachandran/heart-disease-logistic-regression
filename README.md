@@ -76,7 +76,7 @@ These metrics provide a comprehensive evaluation, particularly important for med
 
 1. Clone the repository:
    
-   git clone https://github.com/prajwala-balachandran/heart-disease-logistic-regression/blob/main/mlheart.ipynb
+   git clone https://github.com/prajwala-balachandran/heart-disease-logistic-regression/blob/main/Code.ipynb
    
 
 2. Open the Jupyter notebook:
